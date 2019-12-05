@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>679389811266-qtbj9l76cnnl7qmfhi4pkepkdfusd8ef.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.679389811266-qtbj9l76cnnl7qmfhi4pkepkdfusd8ef</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIQxWOyOlW6M9Q3B-RQlr2P-8mhWVT7wg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>679389811266</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.processoAlmoxarifado</string>
+	<key>PROJECT_ID</key>
+	<string>processo-almoxarifado</string>
+	<key>STORAGE_BUCKET</key>
+	<string>processo-almoxarifado.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:679389811266:ios:8b6348eccb54a7f14d93db</string>
+	<key>DATABASE_URL</key>
+	<string>https://processo-almoxarifado.firebaseio.com</string>
+</dict>
+</plist>

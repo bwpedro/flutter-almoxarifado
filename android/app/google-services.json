@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679389811266",
+    "firebase_url": "https://processo-almoxarifado.firebaseio.com",
+    "project_id": "processo-almoxarifado",
+    "storage_bucket": "processo-almoxarifado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679389811266:android:d3b4607e89a894324d93db",
+        "android_client_info": {
+          "package_name": "com.example.processoAlmoxarifado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679389811266-c48u0g1reje7nj3ja9e30b9jovqcg6h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZN630Rdlj02qcGUdDfJSOqzosroOVxnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679389811266-c48u0g1reje7nj3ja9e30b9jovqcg6h2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679389811266-qtbj9l76cnnl7qmfhi4pkepkdfusd8ef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.processoAlmoxarifado"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
