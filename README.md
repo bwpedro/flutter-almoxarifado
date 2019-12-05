@@ -1,6 +1,6 @@
 # Almoxapp
 
-Aplicativo do projeto de controle de almoxarifado.
+Aplicativo do projeto de controle de almoxarifado, desenvolvido em conjunto com: https://github.com/othonalberto/controle-almoxarifado-clojure
 
 ## Pre requisitos
 
